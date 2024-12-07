@@ -1,0 +1,4 @@
+.containerEmailList {
+    display: flex;
+    overflow-y: hidden;
+}

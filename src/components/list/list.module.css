@@ -1,0 +1,12 @@
+.wrapper{
+    width: 100%; 
+}
+.containerList{
+    height: calc(100vh - 160px);
+    overflow: scroll;
+}
+
+.containerList::-webkit-scrollbar {
+    display: none;
+  }
+  
